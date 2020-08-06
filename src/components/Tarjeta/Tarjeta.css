@@ -1,0 +1,15 @@
+.Tarjeta {
+    background-color: #eee;
+    padding: 25px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px;
+}
+
+.myButton {
+    align-self: flex-end;
+    width: 40px;
+}

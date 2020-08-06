@@ -1,0 +1,15 @@
+.Nav {
+  background-color: rebeccapurple;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.Nav a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.active {
+  text-decoration-line: underline;
+}
